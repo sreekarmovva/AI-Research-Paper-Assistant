@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+researchenv/
+
+# Environment variables
+.env
+
+# Project generated data
+research_paper_vector_db/
+uploads/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
